@@ -1,7 +1,7 @@
-<html>
-<body>
-<h2>Hello World!</h2>
-<h2>Hi! This is Venkata Ratnam</h2>
-<h2>Welcome to DevOps!</h2>
-</body>
-</html>
+class Demo {
+    public static void main(String[] args) {
+        System.out.println("Hello!, This is Venkata Ratnam..");
+	System.out.println("This is about DevOps course and My project of devloping and deployment");
+	System.out.println("My first Java program!!");
+    }
+}
